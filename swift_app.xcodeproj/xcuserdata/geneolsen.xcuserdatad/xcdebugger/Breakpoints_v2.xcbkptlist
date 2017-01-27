@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swift_app/ViewController.swift"
+            timestampString = "507165133.829846"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift_app.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; swift_app.ViewController"
+                  moduleName = "swift_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/geneolsen/Desktop/swift_app/swift_app/ViewController.swift"
+                  timestampString = "507165381.531429"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift_app.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; swift_app.ViewController"
+                  moduleName = "swift_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/geneolsen/Desktop/swift_app/swift_app/ViewController.swift"
+                  timestampString = "507165381.536195"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift_app.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;swift_app.ViewController&gt;"
+                  moduleName = "swift_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/geneolsen/Desktop/swift_app/swift_app/ViewController.swift"
+                  timestampString = "507165381.546317"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift_app.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;swift_app.ViewController&gt;"
+                  moduleName = "swift_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/geneolsen/Desktop/swift_app/swift_app/ViewController.swift"
+                  timestampString = "507165381.555163"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
